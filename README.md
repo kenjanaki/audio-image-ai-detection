@@ -1,5 +1,5 @@
 # audio-image-ai-detection
-ML/DL project to detect probability of AI in audio and images
+**_ML/DL project to detect probability of AI in audio and images_**
 
 ## Audio Deepfake Detection
 
