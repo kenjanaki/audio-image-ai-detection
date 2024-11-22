@@ -21,6 +21,10 @@ Develop a reliable system to detect synthetic (AI-generated) audio, which can of
 - Extract key features such as MFCCs, chroma, ZCR, and mel spectrograms using libraries like Librosa.
 - Train an XGBoost classifier on these features to distinguish between real and synthetic audio.
 
+### Dataset:
+- Fake Audio: TIMIT-TTS
+- Real Audio: LibriSpeech
+
 ### Tech Stack:
 - Software platform: Python
 - Libraries: Librosa, NumPy, SciPy, XGBoost
@@ -45,6 +49,9 @@ Design a model to differentiate between AI-generated and human-created images, a
 - Preprocess images with rescaling and augmentation techniques.
 - Use a CNN-based architecture (e.g., VGG16) fine-tuned on labeled datasets of real and fake images.
 - Evaluate the model using metrics like accuracy, precision, and ROC-AUC.
+
+### Dataset:
+CIFAKE
 
 ### Tech Stack:
 - Software platform: Python
