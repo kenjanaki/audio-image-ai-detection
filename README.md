@@ -25,6 +25,7 @@ Software platform: Python
 Libraries: Librosa, NumPy, SciPy, XGBoost
 
 
+
 Image AI-Generated Detection
 Problem Statement:
 Design a model to differentiate between AI-generated and human-created images, addressing the challenges of identifying artifacts in synthetic images.
